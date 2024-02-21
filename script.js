@@ -28,8 +28,6 @@ dateOptionsSelectElement.addEventListener('change', () => {
         default:
             currentDateParagraph.textContent = formattedDate
     }
-
-
 })
 
 
